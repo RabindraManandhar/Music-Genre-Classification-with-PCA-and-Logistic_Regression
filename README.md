@@ -1,7 +1,7 @@
 # Music Genre Classification with PCA
 
 ### Introduction
-In this music genre classification project, I work with a dataset containing various musical features extracted from tracks across different styles.
+In this music genre classification project, I work with a dataset containing various musical features extracted from tracks across different styles. The `Genre` feature has some missing values (unlabeled tracks) in the dataset.
 
 `Task:` The primary task is to predict the genres of these unlabeled tracks.
 
